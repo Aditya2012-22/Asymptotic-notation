@@ -7,3 +7,4 @@ def OnTime(n):
 OnTime(10)
 OnTime(20)
 OnTime(42)
+print("\nWith every 'n' the time taken and iterations will increase")
